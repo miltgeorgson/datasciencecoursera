@@ -1,3 +1,3 @@
 # datasciencecoursera
 Data Science (Coursera)
-(no forking idea what i am doing at this point)
+(NEWBIE ALERT! no forking idea what i am doing at this point)
